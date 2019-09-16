@@ -1,0 +1,55 @@
+.App {
+    background-image: url(/public/1482160113164132077.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.Headline {
+    color: floralwhite;
+    text-align: center;
+}
+.currencylist {
+    background-color: #141414;
+    margin-left: auto;
+    margin-right: auto;
+}
+table.darkTable {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    border: 2px solid #000000;
+    background-color: #0A0A0A;
+    width: auto;
+    height: auto;
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  table.darkTable td, table.darkTable th {
+    border: 1px solid #4A4A4A;
+  }
+  table.darkTable tbody td {
+    font-size: 13px;
+    font-weight: bold;
+    color: #7F7F7F;
+  }
+  table.darkTable tr:nth-child(even) {
+    background: #141414;
+  }
+  table.darkTable thead {
+    background: #1E2124;
+  }
+  table.darkTable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #7F7F7F;
+    text-align: center;
+    border-left: 2px solid #4A4A4A;
+  }
+  table.darkTable thead th:first-child {
+    border-left: none;
+  }
+  
+  table.darkTable tfoot td {
+    font-size: 12px;
+  }
